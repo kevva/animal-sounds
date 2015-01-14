@@ -1,0 +1,30 @@
+{
+  "name": "animal-sounds",
+  "version": "1.0.0",
+  "description": "Get animal sounds",
+  "license": "MIT",
+  "repository": "kevva/animal-sounds",
+  "author": {
+    "name": "Kevin Mårtensson",
+    "email": "kevinmartensson@gmail.com",
+    "url": "https://github.com/kevva"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "files": [
+    "index.js",
+    "sounds.json"
+  ],
+  "keywords": [
+  ],
+  "dependencies": {
+    "unique-random": "^1.0.0"
+  },
+  "devDependencies": {
+    "ava": "^0.0.4"
+  }
+}

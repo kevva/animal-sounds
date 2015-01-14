@@ -23,6 +23,20 @@ animalSounds.sounds;
 //=> ['arf', 'baa', ...]
 ```
 
+## CLI
+
+```sh
+$ npm install --global animal-sounds
+```
+
+```sh
+$ animal-sounds --help
+
+Example
+  $ animal-sounds
+  hee-haw
+```
+
 ## License
 
 MIT © [Kevin Mårtensson](https://github.com/kevva)

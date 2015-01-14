@@ -12,16 +12,20 @@
   "engines": {
     "node": ">=0.10.0"
   },
+  "bin": {
+    "animal-sounds": "cli.js"
+  },
   "scripts": {
     "test": "node test.js"
   },
   "files": [
+    "cli.js",
     "index.js",
     "sounds.json"
   ],
-  "keywords": [
-  ],
+  "keywords": [],
   "dependencies": {
+    "meow": "^2.1.0",
     "unique-random": "^1.0.0"
   },
   "devDependencies": {

@@ -2,11 +2,13 @@
 
 > Get animal sounds
 
+
 ## Install
 
-```sh
+```
 $ npm install --save animal-sounds
 ```
+
 
 ## Usage
 
@@ -23,19 +25,21 @@ animalSounds.sounds;
 //=> ['arf', 'baa', ...]
 ```
 
+
 ## CLI
 
-```sh
+```
 $ npm install --global animal-sounds
 ```
 
 ```sh
 $ animal-sounds --help
 
-Example
-  $ animal-sounds
-  hee-haw
+  Example
+    $ animal-sounds
+    hee-haw
 ```
+
 
 ## License
 

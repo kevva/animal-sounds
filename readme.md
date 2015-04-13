@@ -1,4 +1,4 @@
-# animal-sounds [![Build Status](http://img.shields.io/travis/kevva/animal-sounds/master.svg?style=flat)](http://travis-ci.org/kevva/animal-sounds)
+# animal-sounds [![Build Status](https://travis-ci.org/kevva/animal-sounds.svg?branch=master)](https://travis-ci.org/kevva/animal-sounds)
 
 > Get animal sounds
 

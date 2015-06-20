@@ -9,7 +9,7 @@ meow({
 		'Example',
 		'  $ animal-sounds',
 		'  hee-haw'
-	].join('\n')
+	]
 });
 
 console.log(animalSounds());

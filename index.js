@@ -1,5 +1,4 @@
 'use strict';
-
 var sounds = require('./sounds.json');
 
 module.exports = function () {
